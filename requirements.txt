@@ -1,0 +1,6 @@
+tensorflow
+voila
+ipywidgets
+ipython
+jupyter
+numpy
